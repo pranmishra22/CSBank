@@ -1,0 +1,15 @@
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/obj/Debug/net7.0/CSBank.csproj.AssemblyReference.cache
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/obj/Debug/net7.0/CSBank.GeneratedMSBuildEditorConfig.editorconfig
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/obj/Debug/net7.0/CSBank.AssemblyInfoInputs.cache
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/obj/Debug/net7.0/CSBank.AssemblyInfo.cs
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/obj/Debug/net7.0/CSBank.csproj.CoreCompileInputs.cache
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/bin/Debug/net7.0/CSBank
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/bin/Debug/net7.0/CSBank.deps.json
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/bin/Debug/net7.0/CSBank.runtimeconfig.json
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/bin/Debug/net7.0/CSBank.dll
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/bin/Debug/net7.0/CSBank.pdb
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/obj/Debug/net7.0/CSBank.dll
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/obj/Debug/net7.0/refint/CSBank.dll
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/obj/Debug/net7.0/CSBank.pdb
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/obj/Debug/net7.0/CSBank.genruntimeconfig.cache
+/Users/sunitidash/Documents/Projects/CSBank/CSBank/obj/Debug/net7.0/ref/CSBank.dll

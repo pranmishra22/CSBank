@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSBank", "CSBank\CSBank.csproj", "{58CF6C21-912D-48D5-A411-398C3AEAB544}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{ED040FD4-88D6-40BB-8704-3398814E26FD}"
+	ProjectSection(SolutionItems) = preProject
+		EmptyTextFile.txt = EmptyTextFile.txt
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58CF6C21-912D-48D5-A411-398C3AEAB544}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58CF6C21-912D-48D5-A411-398C3AEAB544}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58CF6C21-912D-48D5-A411-398C3AEAB544}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58CF6C21-912D-48D5-A411-398C3AEAB544}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E09E0A90-B456-4089-B291-CBAA7F557D6F}
+	EndGlobalSection
+EndGlobal

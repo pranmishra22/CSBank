@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{58CF6C21-912D-48D5-A411-398C3AEAB544}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="readme.txt">
+    <Files>
+      <File FileName="CSBank/Program.cs" Line="212" Column="48" />
+      <File FileName="CSBank/Model/Transaction.cs" Line="1" Column="1" />
+      <File FileName="CSBank/Model/UserAccount.cs" />
+      <File FileName="CSBank/DAL/UserAccountRepository.cs" />
+      <File FileName="CSBank/DAL/IUserAccountRepository.cs" Line="1" Column="1" />
+      <File FileName="CSBank/UserAccounts.xml" Line="48" Column="17" />
+      <File FileName="EmptyTextFile.txt" Line="19" Column="7" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CSBank" expanded="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CSBank PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

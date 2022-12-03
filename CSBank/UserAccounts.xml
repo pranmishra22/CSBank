@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UserAccounts>
+  <UserAccount>
+    <id>1</id>
+    <name>Prankita</name>
+    <accountbalance>1086.24</accountbalance>
+    <accountnumber>100258754321</accountnumber>
+    <phonenumber>7438802847</phonenumber>
+    <username>pm</username>
+    <password>pm@2022</password>
+    <Transactions>
+      <Transaction>
+        <transactiontype>C</transactiontype>
+        <transactionamount>1024.95</transactionamount>
+        <dateoftransaction>5/28/2022 5:42:59 PM</dateoftransaction>
+      </Transaction>
+      <Transaction>
+        <transactiontype>C</transactiontype>
+        <transactionamount>11.29</transactionamount>
+        <dateoftransaction>2022-12-02T14:31:23.175225+00:00</dateoftransaction>
+      </Transaction>
+      <Transaction>
+        <transactiontype>C</transactiontype>
+        <transactionamount>10</transactionamount>
+        <dateoftransaction>2022-12-02T14:34:12.391125+00:00</dateoftransaction>
+      </Transaction>
+      <Transaction>
+        <transactiontype>C</transactiontype>
+        <transactionamount>10</transactionamount>
+        <dateoftransaction>2022-12-02T14:34:43.683457+00:00</dateoftransaction>
+      </Transaction>
+      <Transaction>
+        <transactiontype>C</transactiontype>
+        <transactionamount>10</transactionamount>
+        <dateoftransaction>2022-12-03T19:39:14.257986+00:00</dateoftransaction>
+      </Transaction>
+      <Transaction>
+        <transactiontype>C</transactiontype>
+        <transactionamount>10</transactionamount>
+        <dateoftransaction>2022-12-03T19:40:19.24755+00:00</dateoftransaction>
+      </Transaction>
+      <Transaction>
+        <transactiontype>C</transactiontype>
+        <transactionamount>10</transactionamount>
+        <dateoftransaction>2022-12-03T19:40:26.993573+00:00</dateoftransaction>
+      </Transaction>
+    </Transactions>
+  </UserAccount>
+</UserAccounts>
